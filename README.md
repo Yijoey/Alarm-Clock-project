@@ -16,5 +16,5 @@ or choose to “snooze”. If the user does not respond at all, the alarm will t
 
 ## Use Case Description
 <i>
-The Alarm Clock is designed to have several functions like checking the current time and set an alarm. The users can set the time format by using the button. The clock provides 12hr and 24hr time format. It is possible to set 1 or 2 alarms. When the alarm starts, user is able to turn it off or snooze. If the clock got no response from the user, it will be turned off automatically in 2 minutes. If the user snoozed the clock, the sound would be turned off and the clock would fire again after snoozing time. Also, the snoozing time can be adjusted.
+The Alarm Clock is designed to have several functions like checking the current time and set an alarm. The users can set the time format by using the button. The clock provides 12hr and 24hr time format. It is possible to set 1 or 2 alarms. When the alarm starts, user is able to turn it off or snooze. If the clock got no response from the user, it would be turned off automatically in 2 minutes. If the user snoozed the clock, the sound would be turned off and the clock would fire again after snoozing time. Also, the snoozing time can be adjusted.
 </i>
