@@ -32,3 +32,10 @@ Event Actors: Users press the buttons
 System event: display the current time and do the alarm on time
 <br>
 Event: user set the current time, alarm and the length of snoozing. User is able to shut the alarm off or snooze when the alarm fires. If the alarm was asked to snooze, it would fire again after the snoozing time.
+
+## feedback by Yi Zhao
+
+The case diagram and descriptions are created following the provided documents. 
+They explain how the alarm clock works clearly. Every possibel case is listed when alarm fires.
+And I do not find anything left in this solution. I think it covers all requirements. 
+The actors are named singular and use cases ideally begin with a verb. There is enough detail to help us to understand this project, which is very great.
